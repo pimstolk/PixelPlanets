@@ -19,7 +19,7 @@ onready var planets = {
 	"Star": preload("res://Planets/Star/Star.tscn"),
 }
 const max_pixel_size = 100.0;
-var pixels = 100.0
+var pixels = 48.0
 var scale = 1.0
 var sd = 0
 
